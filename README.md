@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Caique Azevedo! 👋
 
-<!--
-**CaiqueAzevedo65/CaiqueAzevedo65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am passionate about technology and development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer constantly learning and improving. Here you will find my projects and studies in various technologies.
+
+## Skills and Interests
+
+* **Languages:** Python, JavaScript
+* **Areas of Interest:** Web Development, Data Analysis, Automation
+
+## My Most Popular Projects
+
+* [EconAgro](https://github.com/CaiqueAzevedo65/EconAgro)
+* [API-Python](https://github.com/CaiqueAzevedo65/API-Python)
+* [Estudo-JavaScript](https://github.com/CaiqueAzevedo65/Estudo-JavaScript)
+* [Curso-Python-Hashtag](https://github.com/CaiqueAzevedo65/Curso-Python-Hashtag)
+* [Challenge2](https://github.com/CaiqueAzevedo65/Challenge2)
+* [UC9-master](https://github.com/CaiqueAzevedo65/UC9-master)
+
+## Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/caiqueazevedo65)
+* [Instagram](https://www.instagram.com/caiqueazevedo65)
+
+Feel free to explore my repositories and get in touch!
