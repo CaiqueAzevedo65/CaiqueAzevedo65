@@ -8,14 +8,14 @@ I am a developer committed to continuous learning and improvement. Here you will
 
 ## Education
 
-* [cite_start]**FIAP:** Bachelor's Degree, Software Engineering (July 2024 - 2028) 
-* [cite_start]**Senac São Paulo:** Integrated Technical Course, Systems Development (April 2024 - September 2025) 
+* **FIAP:** Bachelor's Degree, Software Engineering (July 2024 - 2028) 
+* **Senac São Paulo:** Integrated Technical Course, Systems Development (April 2024 - September 2025) 
 
 ## Skills and Interests
 
 * **Languages:** Python, JavaScript
 * **Areas of Interest:** Web Development, Data Analysis, Automation
-* [cite_start]**Professional Skills:** Project Management, Computer Systems Analysis, Database 
+* **Professional Skills:** Project Management, Computer Systems Analysis, Database 
 
 ## My Most Popular Projects
 
@@ -28,8 +28,8 @@ I am a developer committed to continuous learning and improvement. Here you will
 
 ## Connect With Me
 
-* [cite_start]**LinkedIn:** [www.linkedin.com/in/caique-azevedo-46a700343](www.linkedin.com/in/caique-azevedo-46a700343) 
-* [cite_start]**Email:** [caiqueazevedo2005@gmail.com](mailto:caiqueazevedo2005@gmail.com) 
+* **LinkedIn:** [www.linkedin.com/in/caique-azevedo-46a700343](www.linkedin.com/in/caique-azevedo-46a700343) 
+* **Email:** [caiqueazevedo2005@gmail.com](mailto:caiqueazevedo2005@gmail.com) 
 * **Instagram:** [@caiqueazevedo65](https://www.instagram.com/caiqueazevedo65)
 
 Feel free to explore my repositories and get in touch!
