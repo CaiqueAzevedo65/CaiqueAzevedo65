@@ -1,10 +1,5 @@
 # Olá, eu sou o Caique Azevedo! 👋
 
-<p>
-  <a href="mailto:caiqueazevedo2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/caique-azevedo-46a700343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 Sou um desenvolvedor e entusiasta de tecnologia, atualmente focado em aprimorar minhas habilidades e construir soluções inovadoras. Com dupla formação em **Engenharia de Software** e **Desenvolvimento de Sistemas**, busco ativamente aplicar meu conhecimento em projetos desafiadores. Moro em Campinas, São Paulo, Brasil.
 
 ## 🌱 O que estou aprendendo
