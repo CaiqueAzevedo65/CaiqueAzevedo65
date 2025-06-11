@@ -1,35 +1,59 @@
-# Hi, I'm Caique Azevedo! 👋
+Olá, eu sou o Caique Azevedo! 👋
+&lt;p>
+&lt;a href="mailto:caiqueazevedo2005@gmail.com">&lt;img src="[suspicious link removed]" alt="Gmail"/>&lt;/a>
+&lt;a href="[suspicious link removed]">&lt;img src="[suspicious link removed]" alt="LinkedIn"/>&lt;/a>
+&lt;/p>
 
-Welcome to my GitHub profile. I am a passionate technology and development enthusiast, currently pursuing degrees in Software Engineering and Systems Development. [cite_start]I'm based in Campinas, São Paulo, Brazil. 
+Sou um desenvolvedor e entusiasta de tecnologia, atualmente focado em aprimorar minhas habilidades e construir soluções inovadoras. Com dupla formação em Engenharia de Software e Desenvolvimento de Sistemas, busco ativamente aplicar meu conhecimento em projetos desafiadores. Moro em Campinas, São Paulo, Brasil.
 
-## About Me
+🌱 O que estou aprendendo
+Estou sempre em busca de novos conhecimentos. Atualmente, meu foco é:
 
-I am a developer committed to continuous learning and improvement. Here you will find my projects and studies across various technologies. [cite_start]I am currently a student at FIAP, working towards a Bachelor's degree in Software Engineering, and also at Senac São Paulo, completing an Integrated Technical Course in Systems Development. 
+Aprofundar meus conhecimentos em Desenvolvimento Web Full-Stack.
+Explorar técnicas de Análise de Dados e Automação de Processos com Python.
+Aplicar boas práticas de Gerenciamento de Projetos Ágeis em meus trabalhos.
+🛠️ Tecnologias e Habilidades
+&lt;table>
+&lt;tr>
+&lt;td valign="top" width="50%">
+&lt;strong>Linguagens e Banco de Dados&lt;/strong>&lt;br>&lt;br>
+&lt;a href="#">&lt;img src="[suspicious link removed]">&lt;/a>
+&lt;a href="#">&lt;img src="[suspicious link removed]">&lt;/a>
+&lt;a href="#">&lt;img src="[suspicious link removed]">&lt;/a>
+&lt;/td>
+&lt;td valign="top" width="50%">
+&lt;strong>Habilidades Profissionais&lt;/strong>&lt;br>&lt;br>
+&lt;a href="#">&lt;img src="[suspicious link removed]">&lt;/a>
+&lt;a href="#">&lt;img src="[suspicious link removed]">&lt;/a>
+&lt;a href="#">&lt;img src="[suspicious link removed]">&lt;/a>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
 
-## Education
+🚀 Meus Projetos em Destaque
+Aqui estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar o código e ver como foram construídos!
 
-* **FIAP:** Bachelor's Degree, Software Engineering (July 2024 - 2028) 
-* **Senac São Paulo:** Integrated Technical Course, Systems Development (April 2024 - September 2025) 
+Projeto	Descrição	Tecnologias Utilizadas
+🚢 EconAgro	Uma plataforma web para análise econômica e gestão de dados no setor agrícola.	Python JavaScript Flask
+🔌 API-Python	Estudo e implementação de uma API RESTful utilizando Python e Flask para gerenciar dados.	Python Flask
+📚 Estudo-JavaScript	Repositório com exercícios e pequenos projetos para aprofundar o conhecimento em JavaScript moderno (ES6+).	JavaScript HTML5 CSS3
+🐍 Curso-Python-Hashtag	Projetos e anotações desenvolvidos durante o curso de Python da Hashtag Treinamentos, focados em automação e análise de dados.	Python Pandas Selenium
 
-## Skills and Interests
+Exportar para as Planilhas
+🎓 Formação Acadêmica
+FIAP | Bacharelado em Engenharia de Software &lt;br> Julho 2024 - 2028
+Senac São Paulo | Curso Técnico em Desenvolvimento de Sistemas &lt;br> Abril 2024 - Setembro 2025
+📊 Minhas Estatísticas no GitHub
+&lt;p align="center">
+&lt;img height="180em" src="[suspicious link removed]"/>
+&lt;img height="180em" src="[suspicious link removed]"/>
+&lt;/p>
 
-* **Languages:** Python, JavaScript
-* **Areas of Interest:** Web Development, Data Analysis, Automation
-* **Professional Skills:** Project Management, Computer Systems Analysis, Database 
+📫 Conecte-se Comigo
+Sinta-se à vontade para entrar em contato, seja para networking, tirar dúvidas ou propor colaborações!
 
-## My Most Popular Projects
-
-* [EconAgro](https://github.com/CaiqueAzevedo65/EconAgro)
-* [API-Python](https://github.com/CaiqueAzevedo65/API-Python)
-* [Estudo-JavaScript](https://github.com/CaiqueAzevedo65/Estudo-JavaScript)
-* [Curso-Python-Hashtag](https://github.com/CaiqueAzevedo65/Curso-Python-Hashtag)
-* [Challenge2](https://github.com/CaiqueAzevedo65/Challenge2)
-* [UC9-master](https://github.com/CaiqueAzevedo65/UC9-master)
-
-## Connect With Me
-
-* **LinkedIn:** [www.linkedin.com/in/caique-azevedo-46a700343](www.linkedin.com/in/caique-azevedo-46a700343) 
-* **Email:** [caiqueazevedo2005@gmail.com](mailto:caiqueazevedo2005@gmail.com) 
-* **Instagram:** [@caiqueazevedo65](https://www.instagram.com/caiqueazevedo65)
-
-Feel free to explore my repositories and get in touch!
+&lt;p>
+&lt;a href="mailto:caiqueazevedo2005@gmail.com">&lt;img src="[suspicious link removed]" alt="Gmail"/>&lt;/a>
+&lt;a href="[suspicious link removed]">&lt;img src="[suspicious link removed]" alt="LinkedIn"/>&lt;/a>
+&lt;a href="[suspicious link removed]">&lt;img src="[suspicious link removed]" alt="Instagram"/>&lt;/a>
+&lt;/p>
