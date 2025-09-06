@@ -1,62 +1,77 @@
-# Olá, eu sou o Caique Azevedo! 👋
+# Olá, eu sou Caique Azevedo! 👋
 
-Sou um desenvolvedor e entusiasta de tecnologia, atualmente focado em aprimorar minhas habilidades e construir soluções inovadoras. Com dupla formação em **Engenharia de Software** e **Desenvolvimento de Sistemas**, busco ativamente aplicar meu conhecimento em projetos desafiadores. Moro em Campinas, São Paulo, Brasil.
+<p align="left">
+  Sou um desenvolvedor apaixonado por tecnologia, com formação em <strong>Engenharia de Software</strong> e <strong>Desenvolvimento de Sistemas</strong>. Atualmente, moro em Campinas, São Paulo, e meu objetivo é construir soluções inovadoras e aprimorar continuamente minhas habilidades no desenvolvimento Full-Stack.
+</p>
 
-## 🌱 O que estou aprendendo
+<p align="left">
+  <a href="mailto:caiqueazevedo2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/caique-azevedo-46a700343" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-Estou sempre em busca de novos conhecimentos. Atualmente, meu foco é:
-* Aprofundar meus conhecimentos em **Desenvolvimento Web Full-Stack**.
-* Explorar técnicas de **Análise de Dados** e **Automação de Processos** com Python.
-* Aplicar boas práticas de **Gerenciamento de Projetos Ágeis** em meus trabalhos.
+---
 
-## 🛠️ Tecnologias e Habilidades
+### 🚀 Principais Habilidades
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Linguagens e Banco de Dados</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🌱 Meus Focos de Estudo
+- **Desenvolvimento Web Full-Stack**: Aprofundando conhecimentos para criar aplicações completas.
+- **Análise de Dados com Python**: Explorando bibliotecas para extrair insights e automatizar processos.
+- **Metodologias Ágeis**: Aplicando boas práticas para gerenciamento e entrega de projetos.
+
+---
+
+### 💻 Projetos em Destaque
+
+<table width="100%">
+  <tr width="100%">
+    <td width="50%" valign="top">
+      <a href="https://github.com/CaiqueAzevedo65/EconAgro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaiqueAzevedo65&repo=EconAgro&theme=dracula" alt="EconAgro">
+      </a>
     </td>
-    <td valign="top" width="50%">
-      <strong>Habilidades Profissionais</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Project%20Management-45b8d8?style=for-the-badge"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Systems%20Analysis-00a86b?style=for-the-badge"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Data%20Analysis-ff69b4?style=for-the-badge"></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/CaiqueAzevedo65/Luxus-Brecho">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaiqueAzevedo65&repo=Luxus-Brecho&theme=dracula" alt="Luxus-Brecho">
+      </a>
+    </td>
+  </tr>
+  <tr width="100%">
+    <td width="50%" valign="top">
+      <a href="https://github.com/CaiqueAzevedo65/GeoEscape">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaiqueAzevedo65&repo=GeoEscape&theme=dracula" alt="GeoEscape">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/CaiqueAzevedo65/Challenge2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaiqueAzevedo65&repo=Challenge2&theme=dracula" alt="Challenge2">
+      </a>
     </td>
   </tr>
 </table>
 
-## 🚀 Meus Projetos em Destaque
+---
 
-Aqui estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar o código e ver como foram construídos!
+### 🎓 Formação Acadêmica
+- **Bacharelado em Engenharia de Software** | FIAP (2024 - 2028)
+- **Técnico em Desenvolvimento de Sistemas** | Senac São Paulo (2024 - 2025)
 
-| Projeto | Descrição | Tecnologias Utilizadas |
-| :--- | :--- | :--- |
-| 🚢 **[EconAgro](https://github.com/CaiqueAzevedo65/EconAgro)** | Uma plataforma web para análise econômica e gestão de dados no setor agrícola. | `Python` `JavaScript` `Flask` |
-| 🔌 **[API-Python](https://github.com/CaiqueAzevedo65/API-Python)** | Estudo e implementação de uma API RESTful utilizando Python e Flask para gerenciar dados. | `Python` `Flask` |
-| 📚 **[Estudo-JavaScript](https://github.com/CaiqueAzevedo65/Estudo-JavaScript)** | Repositório com exercícios e pequenos projetos para aprofundar o conhecimento em JavaScript moderno (ES6+). | `JavaScript` `HTML5` `CSS3` |
-| 🐍 **[Curso-Python-Hashtag](https://github.com/CaiqueAzevedo65/Curso-Python-Hashtag)** | Projetos e anotações desenvolvidos durante o curso de Python da Hashtag Treinamentos, focados em automação e análise de dados. | `Python` `Pandas` `Selenium` |
+---
 
-## 🎓 Formação Acadêmica
-
-* **FIAP** | Bacharelado em Engenharia de Software <br> *Julho 2024 - 2028*
-* **Senac São Paulo** | Curso Técnico em Desenvolvimento de Sistemas <br> *Abril 2024 - Setembro 2025*
-
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueAzevedo65&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueAzevedo65&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
-## 📫 Conecte-se Comigo
-
-Sinta-se à vontade para entrar em contato, seja para networking, tirar dúvidas ou propor colaborações!
-
-<p>
-  <a href="mailto:caiqueazevedo2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/caique-azevedo-46a700343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/caiqueazevedo65"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
